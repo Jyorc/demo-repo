@@ -3,6 +3,7 @@
 Some description!
 
 ## Subheader
-Enter whatever you like 
+Enter whatever you like.
+ 
 
 
